@@ -38,8 +38,8 @@ static const Command softlockHoster[] = {
 	// set up softlock ingame
 	{X,        1},	{NOTHING,   50},
 	{A,        1},	{NOTHING,  320},
-	{B,        1},	{NOTHING,   30},
-	{A,        1},	{NOTHING,  300}, 		
+	{B,		   1},	{NOTHING,   30},
+	{A,		   1},	{NOTHING,  300}, 		
 
 	// y-comm
 	{Y,        5},  {NOTHING,   50}, 
