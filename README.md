@@ -25,8 +25,6 @@ this will roll 3 frames forward, host the den & repeat
 - navigate to change grip/order menu (switch home -> controllers)
 - plug in your arduino
 
-##### (link code versions later)
-
 ## soft lock explanation
 this method utilizes the backup save in swsh.
 multiple things in the game create a backup save, such as saving, trading, camping & flying.
@@ -36,18 +34,6 @@ other uses include:
 - closing the game & preserving your soft lock 
 - hosting locally while soft locking
 - keeping a pokemon soft locked while rolling for something else 
-
-## other useful tools created by [brianuuuSonic](https://www.youtube.com/watch?v=y2xFf7e_KSU)
-
-- autohost (hardlock)
-- day skipper (frame skipping)
-- 3 day skipper (rolling den)
-- autofossil 
-- autoloto (masterball farming)
-- watt farmer
-- turboA (digging bros etc.)
-- berry farmer
-- auto box release
 
 
 ## thanks & credits
